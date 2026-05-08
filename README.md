@@ -10,13 +10,6 @@
 
 ___
 
-<div align="center">  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafaelftr&show_icons=true&count_private=true&title_color=cyan&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117"> 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelftr&layout=compact&title_color=cyan&text_color=fff&bg_color=0d1117&border_color=0d1117">
-</div>
-
-___
-
 <h6 align=center>
   Let's build a better world through code!
 </h6>
